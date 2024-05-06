@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "bilde": "bulbasaur.png",
       "name": {
         "english": "Bulbasaur",
         "japanese": "フシギダネ",
@@ -19,6 +20,7 @@
     },
     {
       "id": 2,
+      "bilde": "Ivysaur.png",
       "name": {
         "english": "Ivysaur",
         "japanese": "フシギソウ",
@@ -37,6 +39,7 @@
     },
     {
       "id": 3,
+      "bilde": "Venusaur.png",
       "name": {
         "english": "Venusaur",
         "japanese": "フシギバナ",
@@ -55,6 +58,7 @@
     },
     {
       "id": 4,
+      "bilde": "Charmander.png",
       "name": {
         "english": "Charmander",
         "japanese": "ヒトカゲ",
@@ -73,6 +77,7 @@
     },
     {
       "id": 5,
+      "bilde": "Charmeleon.png",
       "name": {
         "english": "Charmeleon",
         "japanese": "リザード",
@@ -91,6 +96,7 @@
     },
     {
       "id": 6,
+      "bilde": "Charizard.png",
       "name": {
         "english": "Charizard",
         "japanese": "リザードン",
@@ -109,6 +115,7 @@
     },
     {
       "id": 7,
+      "bilde": "Squirtle.png",
       "name": {
         "english": "Squirtle",
         "japanese": "ゼニガメ",
@@ -127,6 +134,7 @@
     },
     {
       "id": 8,
+      "bilde": "Wartortle.png",
       "name": {
         "english": "Wartortle",
         "japanese": "カメール",
@@ -145,6 +153,7 @@
     },
     {
       "id": 9,
+      "bilde": "Blastoise.png",
       "name": {
         "english": "Blastoise",
         "japanese": "カメックス",
@@ -163,6 +172,7 @@
     },
     {
       "id": 10,
+      "bilde": "Caterpie.webp",
       "name": {
         "english": "Caterpie",
         "japanese": "キャタピー",
@@ -181,6 +191,7 @@
     },
     {
       "id": 11,
+      "bilde": "Metapod.png",
       "name": {
         "english": "Metapod",
         "japanese": "トランセル",
@@ -199,6 +210,7 @@
     },
     {
       "id": 12,
+      "bilde": "Butterfree.png",
       "name": {
         "english": "Butterfree",
         "japanese": "バタフリー",
@@ -217,6 +229,7 @@
     },
     {
       "id": 13,
+      "bilde": "Weedle.png",
       "name": {
         "english": "Weedle",
         "japanese": "ビードル",
@@ -235,6 +248,7 @@
     },
     {
       "id": 14,
+      "bilde": "Kakuna.png",
       "name": {
         "english": "Kakuna",
         "japanese": "コクーン",
@@ -253,6 +267,7 @@
     },
     {
       "id": 15,
+      "bilde": "Beedrill.png",
       "name": {
         "english": "Beedrill",
         "japanese": "スピアー",
@@ -271,6 +286,7 @@
     },
     {
       "id": 16,
+      "bilde": "Pidgey.webp",
       "name": {
         "english": "Pidgey",
         "japanese": "ポッポ",
@@ -289,6 +305,7 @@
     },
     {
       "id": 17,
+      "bilde": "Pidgeotto.png",
       "name": {
         "english": "Pidgeotto",
         "japanese": "ピジョン",
@@ -307,6 +324,7 @@
     },
     {
       "id": 18,
+      "bilde": "Pidgeotto.png",
       "name": {
         "english": "Pidgeot",
         "japanese": "ピジョット",
@@ -325,6 +343,7 @@
     },
     {
       "id": 19,
+      "bilde": "Rattata.webp",
       "name": {
         "english": "Rattata",
         "japanese": "コラッタ",
@@ -343,6 +362,7 @@
     },
     {
       "id": 20,
+      "bilde": "Raticate.png",
       "name": {
         "english": "Raticate",
         "japanese": "ラッタ",
@@ -361,6 +381,7 @@
     },
     {
       "id": 21,
+      "bilde": "Spearow.jpg",
       "name": {
         "english": "Spearow",
         "japanese": "オニスズメ",
@@ -379,6 +400,7 @@
     },
     {
       "id": 22,
+      "bilde": "Fearow.png",
       "name": {
         "english": "Fearow",
         "japanese": "オニドリル",
@@ -397,6 +419,7 @@
     },
     {
       "id": 23,
+      "bilde": "Ekans.png",
       "name": {
         "english": "Ekans",
         "japanese": "アーボ",
@@ -415,6 +438,7 @@
     },
     {
       "id": 24,
+      "bilde": "Arbok.png",
       "name": {
         "english": "Arbok",
         "japanese": "アーボック",
@@ -433,6 +457,7 @@
     },
     {
       "id": 25,
+      "bilde": "Pikachu.png",
       "name": {
         "english": "Pikachu",
         "japanese": "ピカチュウ",
@@ -451,6 +476,7 @@
     },
     {
       "id": 26,
+      "bilde": "Raichu.webp",
       "name": {
         "english": "Raichu",
         "japanese": "ライチュウ",
@@ -469,6 +495,7 @@
     },
     {
       "id": 27,
+      "bilde": "Sandshrew.webp",
       "name": {
         "english": "Sandshrew",
         "japanese": "サンド",
@@ -487,6 +514,7 @@
     },
     {
       "id": 28,
+      "bilde": "Sandslash.png",
       "name": {
         "english": "Sandslash",
         "japanese": "サンドパン",
@@ -505,6 +533,7 @@
     },
     {
       "id": 29,
+      "bilde": "Nidoran♀.png",
       "name": {
         "english": "Nidoran♀",
         "japanese": "ニドラン♀",
@@ -523,6 +552,7 @@
     },
     {
       "id": 30,
+      "bilde": "Nidorina.png",
       "name": {
         "english": "Nidorina",
         "japanese": "ニドリーナ",
@@ -541,6 +571,7 @@
     },
     {
       "id": 31,
+      "bilde": "Nidoqueen.webp",
       "name": {
         "english": "Nidoqueen",
         "japanese": "ニドクイン",
@@ -559,6 +590,7 @@
     },
     {
       "id": 32,
+      "bilde": "Nidoran♂.png",
       "name": {
         "english": "Nidoran♂",
         "japanese": "ニドラン♂",
@@ -577,6 +609,7 @@
     },
     {
       "id": 33,
+      "bilde": "Nidorino.png",
       "name": {
         "english": "Nidorino",
         "japanese": "ニドリーノ",
@@ -595,6 +628,7 @@
     },
     {
       "id": 34,
+      "bilde": "Nidoking.png",
       "name": {
         "english": "Nidoking",
         "japanese": "ニドキング",
@@ -613,6 +647,7 @@
     },
     {
       "id": 35,
+      "bilde": "Clefairy.png",
       "name": {
         "english": "Clefairy",
         "japanese": "ピッピ",
@@ -631,6 +666,7 @@
     },
     {
       "id": 36,
+      "bilde": "Clefable.webp",
       "name": {
         "english": "Clefable",
         "japanese": "ピクシー",
@@ -649,6 +685,7 @@
     },
     {
       "id": 37,
+      "bilde": "Vulpix.png",
       "name": {
         "english": "Vulpix",
         "japanese": "ロコン",
@@ -667,6 +704,7 @@
     },
     {
       "id": 38,
+      "bilde": "Ninetales.png",
       "name": {
         "english": "Ninetales",
         "japanese": "キュウコン",
@@ -685,6 +723,7 @@
     },
     {
       "id": 39,
+      "bilde": "Jigglypuff.webp",
       "name": {
         "english": "Jigglypuff",
         "japanese": "プリン",
@@ -703,6 +742,7 @@
     },
     {
       "id": 40,
+      "bilde": "Wigglytuff.png",
       "name": {
         "english": "Wigglytuff",
         "japanese": "プクリン",
@@ -721,6 +761,7 @@
     },
     {
       "id": 41,
+      "bilde": "Zubat.webp",
       "name": {
         "english": "Zubat",
         "japanese": "ズバット",
@@ -739,6 +780,7 @@
     },
     {
       "id": 42,
+      "bilde": "Golbat.png",
       "name": {
         "english": "Golbat",
         "japanese": "ゴルバット",
@@ -757,6 +799,7 @@
     },
     {
       "id": 43,
+      "bilde": "Oddish.webp",
       "name": {
         "english": "Oddish",
         "japanese": "ナゾノクサ",
@@ -775,6 +818,7 @@
     },
     {
       "id": 44,
+      "bilde": "Gloom.png",
       "name": {
         "english": "Gloom",
         "japanese": "クサイハナ",
@@ -793,6 +837,7 @@
     },
     {
       "id": 45,
+      "bilde": "Vileplume.webp",
       "name": {
         "english": "Vileplume",
         "japanese": "ラフレシア",
@@ -811,6 +856,7 @@
     },
     {
       "id": 46,
+      "bilde": "Paras.png",
       "name": {
         "english": "Paras",
         "japanese": "パラス",
@@ -829,6 +875,7 @@
     },
     {
       "id": 47,
+      "bilde": "Parasect.png",
       "name": {
         "english": "Parasect",
         "japanese": "パラセクト",
@@ -847,6 +894,7 @@
     },
     {
       "id": 48,
+      "bilde": "Venonat.png",
       "name": {
         "english": "Venonat",
         "japanese": "コンパン",
@@ -865,6 +913,7 @@
     },
     {
       "id": 49,
+      "bilde": "Venomoth.png",
       "name": {
         "english": "Venomoth",
         "japanese": "モルフォン",
@@ -883,6 +932,7 @@
     },
     {
       "id": 50,
+      "bilde": "Diglett.png",
       "name": {
         "english": "Diglett",
         "japanese": "ディグダ",
@@ -901,6 +951,7 @@
     },
     {
       "id": 51,
+      "bilde": "Dugtrio.png",
       "name": {
         "english": "Dugtrio",
         "japanese": "ダグトリオ",
@@ -919,6 +970,7 @@
     },
     {
       "id": 52,
+      "bilde": "Meowth.png",
       "name": {
         "english": "Meowth",
         "japanese": "ニャース",
@@ -937,6 +989,7 @@
     },
     {
       "id": 53,
+      "bilde": "Persian.webp",
       "name": {
         "english": "Persian",
         "japanese": "ペルシアン",
@@ -955,6 +1008,7 @@
     },
     {
       "id": 54,
+      "bilde": "Psyduck.webp",
       "name": {
         "english": "Psyduck",
         "japanese": "コダック",
@@ -973,6 +1027,7 @@
     },
     {
       "id": 55,
+      "bilde": "Golduck.png",
       "name": {
         "english": "Golduck",
         "japanese": "ゴルダック",
@@ -991,6 +1046,7 @@
     },
     {
       "id": 56,
+      "bilde": "Mankey.webp",
       "name": {
         "english": "Mankey",
         "japanese": "マンキー",
@@ -1009,6 +1065,7 @@
     },
     {
       "id": 57,
+      "bilde": "Primeape.png",
       "name": {
         "english": "Primeape",
         "japanese": "オコリザル",
@@ -1027,6 +1084,7 @@
     },
     {
       "id": 58,
+      "bilde": "Growlithe.png",
       "name": {
         "english": "Growlithe",
         "japanese": "ガーディ",
@@ -1045,6 +1103,7 @@
     },
     {
       "id": 59,
+      "bilde": "Arcanine.png",
       "name": {
         "english": "Arcanine",
         "japanese": "ウインディ",
@@ -1063,6 +1122,7 @@
     },
     {
       "id": 60,
+      "bilde": "Poliwag.webp",
       "name": {
         "english": "Poliwag",
         "japanese": "ニョロモ",
@@ -1081,6 +1141,7 @@
     },
     {
       "id": 61,
+      "bilde": "Poliwhirl.png",
       "name": {
         "english": "Poliwhirl",
         "japanese": "ニョロゾ",
@@ -1099,6 +1160,7 @@
     },
     {
       "id": 62,
+      "bilde": "Poliwrath.png",
       "name": {
         "english": "Poliwrath",
         "japanese": "ニョロボン",
@@ -1117,6 +1179,7 @@
     },
     {
       "id": 63,
+      "bilde": "Abra.png",
       "name": {
         "english": "Abra",
         "japanese": "ケーシィ",
@@ -1135,6 +1198,7 @@
     },
     {
       "id": 64,
+      "bilde": "Kadabra.png",
       "name": {
         "english": "Kadabra",
         "japanese": "ユンゲラー",
@@ -1153,6 +1217,7 @@
     },
     {
       "id": 65,
+      "bilde": "Alakazam.png",
       "name": {
         "english": "Alakazam",
         "japanese": "フーディン",
@@ -1171,6 +1236,7 @@
     },
     {
       "id": 66,
+      "bilde": "Machop.webp",
       "name": {
         "english": "Machop",
         "japanese": "ワンリキー",
@@ -1189,6 +1255,7 @@
     },
     {
       "id": 67,
+      "bilde": "Machoke.webp",
       "name": {
         "english": "Machoke",
         "japanese": "ゴーリキー",
@@ -1207,6 +1274,7 @@
     },
     {
       "id": 68,
+      "bilde": "Machamp.png",
       "name": {
         "english": "Machamp",
         "japanese": "カイリキー",
@@ -1225,6 +1293,7 @@
     },
     {
       "id": 69,
+      "bilde": "Bellsprout.png",
       "name": {
         "english": "Bellsprout",
         "japanese": "マダツボミ",
@@ -1243,6 +1312,8 @@
     },
     {
       "id": 70,
+      "bilde": "Weepinbell.png",
+      
       "name": {
         "english": "Weepinbell",
         "japanese": "ウツドン",
@@ -1261,11 +1332,13 @@
     },
     {
       "id": 71,
+      "bilde": "Victreebel.png",
       "name": {
         "english": "Victreebel",
         "japanese": "ウツボット",
         "chinese": "大食花",
         "french": "Empiflor"
+        
       },
       "type": ["Grass", "Poison"],
       "base": {
@@ -1279,6 +1352,7 @@
     },
     {
       "id": 72,
+      "bilde": "Tentacool.png",
       "name": {
         "english": "Tentacool",
         "japanese": "メノクラゲ",
@@ -1297,6 +1371,7 @@
     },
     {
       "id": 73,
+      "bilde": "Tentacruel.png",
       "name": {
         "english": "Tentacruel",
         "japanese": "ドククラゲ",
@@ -1315,6 +1390,7 @@
     },
     {
       "id": 74,
+      "bilde": "Geodude.webp",
       "name": {
         "english": "Geodude",
         "japanese": "イシツブテ",
@@ -1333,6 +1409,7 @@
     },
     {
       "id": 75,
+      "bilde": "Graveler.png",
       "name": {
         "english": "Graveler",
         "japanese": "ゴローン",
@@ -1351,6 +1428,7 @@
     },
     {
       "id": 76,
+      "bilde": "Golem.png",
       "name": {
         "english": "Golem",
         "japanese": "ゴローニャ",
@@ -1369,6 +1447,7 @@
     },
     {
       "id": 77,
+      "bilde": "Ponyta.png",
       "name": {
         "english": "Ponyta",
         "japanese": "ポニータ",
@@ -1387,6 +1466,7 @@
     },
     {
       "id": 78,
+      "bilde": "Rapidash.png",
       "name": {
         "english": "Rapidash",
         "japanese": "ギャロップ",
@@ -1405,6 +1485,7 @@
     },
     {
       "id": 79,
+      "bilde": "Slowpoke.png",
       "name": {
         "english": "Slowpoke",
         "japanese": "ヤドン",
@@ -1423,6 +1504,7 @@
     },
     {
       "id": 80,
+      "bilde": "Slowbro.webp",
       "name": {
         "english": "Slowbro",
         "japanese": "ヤドラン",
@@ -1441,6 +1523,7 @@
     },
     {
       "id": 81,
+      "bilde": "Magnemite.webp",
       "name": {
         "english": "Magnemite",
         "japanese": "コイル",
@@ -1459,6 +1542,7 @@
     },
     {
       "id": 82,
+      "bilde": "Magneton.png",
       "name": {
         "english": "Magneton",
         "japanese": "レアコイル",
@@ -1477,6 +1561,7 @@
     },
     {
       "id": 83,
+      "bilde": "Farfetch'd.png",
       "name": {
         "english": "Farfetch'd",
         "japanese": "カモネギ",
@@ -1495,6 +1580,7 @@
     },
     {
       "id": 84,
+      "bilde": "Doduo.png",
       "name": {
         "english": "Doduo",
         "japanese": "ドードー",
@@ -1513,6 +1599,7 @@
     },
     {
       "id": 85,
+      "bilde": "Dodrio.png",
       "name": {
         "english": "Dodrio",
         "japanese": "ドードリオ",
@@ -1531,6 +1618,7 @@
     },
     {
       "id": 86,
+      "bilde": "Seel.png",
       "name": {
         "english": "Seel",
         "japanese": "パウワウ",
@@ -1549,6 +1637,7 @@
     },
     {
       "id": 87,
+      "bilde": "Dewgong.png",
       "name": {
         "english": "Dewgong",
         "japanese": "ジュゴン",
@@ -1567,6 +1656,7 @@
     },
     {
       "id": 88,
+      "bilde": "Grimer.png",
       "name": {
         "english": "Grimer",
         "japanese": "ベトベター",
@@ -1585,6 +1675,7 @@
     },
     {
       "id": 89,
+      "bilde": "Muk.png",
       "name": {
         "english": "Muk",
         "japanese": "ベトベトン",
@@ -1603,6 +1694,7 @@
     },
     {
       "id": 90,
+      "bilde": "Shellder.png",
       "name": {
         "english": "Shellder",
         "japanese": "シェルダー",
@@ -1621,6 +1713,7 @@
     },
     {
       "id": 91,
+      "bilde": "Cloyster.png",
       "name": {
         "english": "Cloyster",
         "japanese": "パルシェン",
@@ -1639,6 +1732,7 @@
     },
     {
       "id": 92,
+      "bilde": "Gastly.png",
       "name": {
         "english": "Gastly",
         "japanese": "ゴース",
@@ -1657,6 +1751,7 @@
     },
     {
       "id": 93,
+      "bilde": "Haunter.webp",
       "name": {
         "english": "Haunter",
         "japanese": "ゴースト",
@@ -1675,6 +1770,7 @@
     },
     {
       "id": 94,
+      "bilde": "Gengar.png",
       "name": {
         "english": "Gengar",
         "japanese": "ゲンガー",
@@ -1693,6 +1789,7 @@
     },
     {
       "id": 95,
+      "bilde": "Onix.png",
       "name": {
         "english": "Onix",
         "japanese": "イワーク",
@@ -1711,6 +1808,7 @@
     },
     {
       "id": 96,
+      "bilde": "Drowzee.png",
       "name": {
         "english": "Drowzee",
         "japanese": "スリープ",
@@ -1729,6 +1827,7 @@
     },
     {
       "id": 97,
+      "bilde": "Hypno.png",
       "name": {
         "english": "Hypno",
         "japanese": "スリーパー",
@@ -1747,6 +1846,7 @@
     },
     {
       "id": 98,
+      "bilde": "Krabby.png",
       "name": {
         "english": "Krabby",
         "japanese": "クラブ",
@@ -1765,6 +1865,7 @@
     },
     {
       "id": 99,
+      "bilde": "Kingler.webp",
       "name": {
         "english": "Kingler",
         "japanese": "キングラー",
@@ -1783,6 +1884,7 @@
     },
     {
       "id": 100,
+      "bilde": "Voltorb.png",
       "name": {
         "english": "Voltorb",
         "japanese": "ビリリダマ",
@@ -1801,6 +1903,7 @@
     },
     {
       "id": 101,
+      "bilde": "Electrode.png",
       "name": {
         "english": "Electrode",
         "japanese": "マルマイン",
@@ -1819,6 +1922,7 @@
     },
     {
       "id": 102,
+      "bilde": "Exeggcute.png",
       "name": {
         "english": "Exeggcute",
         "japanese": "タマタマ",
@@ -1837,6 +1941,7 @@
     },
     {
       "id": 103,
+      "bilde": "Exeggutor.png",
       "name": {
         "english": "Exeggutor",
         "japanese": "ナッシー",
@@ -1855,6 +1960,7 @@
     },
     {
       "id": 104,
+      "bilde": "Cubone.png",
       "name": {
         "english": "Cubone",
         "japanese": "カラカラ",
@@ -1873,6 +1979,7 @@
     },
     {
       "id": 105,
+      "bilde": "Marowak.png",
       "name": {
         "english": "Marowak",
         "japanese": "ガラガラ",
@@ -1891,6 +1998,7 @@
     },
     {
       "id": 106,
+      "bilde": "Hitmonlee.png",
       "name": {
         "english": "Hitmonlee",
         "japanese": "サワムラー",
@@ -1909,6 +2017,7 @@
     },
     {
       "id": 107,
+      "bilde": "Hitmonchan.png",
       "name": {
         "english": "Hitmonchan",
         "japanese": "エビワラー",
@@ -1927,6 +2036,7 @@
     },
     {
       "id": 108,
+      "bilde": "Lickitung.png",
       "name": {
         "english": "Lickitung",
         "japanese": "ベロリンガ",
@@ -1945,6 +2055,7 @@
     },
     {
       "id": 109,
+      "bilde": "Koffing.webp",
       "name": {
         "english": "Koffing",
         "japanese": "ドガース",
@@ -1963,6 +2074,7 @@
     },
     {
       "id": 110,
+      "bilde": "Weezing.png",
       "name": {
         "english": "Weezing",
         "japanese": "マタドガス",
@@ -1981,6 +2093,7 @@
     },
     {
       "id": 111,
+      "bilde": "Rhyhorn.png",
       "name": {
         "english": "Rhyhorn",
         "japanese": "サイホーン",
@@ -1999,6 +2112,7 @@
     },
     {
       "id": 112,
+      "bilde": "Rhydon.png",
       "name": {
         "english": "Rhydon",
         "japanese": "サイドン",
@@ -2017,6 +2131,7 @@
     },
     {
       "id": 113,
+      "bilde": "Chansey.png",
       "name": {
         "english": "Chansey",
         "japanese": "ラッキー",
@@ -2035,6 +2150,7 @@
     },
     {
       "id": 114,
+      "bilde": "Tangela.png",
       "name": {
         "english": "Tangela",
         "japanese": "モンジャラ",
@@ -2053,6 +2169,7 @@
     },
     {
       "id": 115,
+      "bilde": "Kangaskhan.png",
       "name": {
         "english": "Kangaskhan",
         "japanese": "ガルーラ",
@@ -2071,6 +2188,7 @@
     },
     {
       "id": 116,
+      "bilde": "Horsea.png",
       "name": {
         "english": "Horsea",
         "japanese": "タッツー",
@@ -2089,6 +2207,7 @@
     },
     {
       "id": 117,
+      "bilde": "Seadra.png",
       "name": {
         "english": "Seadra",
         "japanese": "シードラ",
@@ -2107,6 +2226,7 @@
     },
     {
       "id": 118,
+      "bilde": "Goldeen.png",
       "name": {
         "english": "Goldeen",
         "japanese": "トサキント",
@@ -2125,6 +2245,7 @@
     },
     {
       "id": 119,
+      "bilde": "Seaking.png",
       "name": {
         "english": "Seaking",
         "japanese": "アズマオウ",
@@ -2143,6 +2264,7 @@
     },
     {
       "id": 120,
+      "bilde": "Staryu.png",
       "name": {
         "english": "Staryu",
         "japanese": "ヒトデマン",
@@ -2161,6 +2283,7 @@
     },
     {
       "id": 121,
+      "bilde": "Starmie.png",
       "name": {
         "english": "Starmie",
         "japanese": "スターミー",
@@ -2179,6 +2302,7 @@
     },
     {
       "id": 122,
+      "bilde": "Mr. Mime.webp",
       "name": {
         "english": "Mr. Mime",
         "japanese": "バリヤード",
@@ -2197,6 +2321,7 @@
     },
     {
       "id": 123,
+      "bilde": "Scyther.png",
       "name": {
         "english": "Scyther",
         "japanese": "ストライク",
@@ -2215,6 +2340,7 @@
     },
     {
       "id": 124,
+      "bilde": "Jynx.png",
       "name": {
         "english": "Jynx",
         "japanese": "ルージュラ",
@@ -2233,6 +2359,7 @@
     },
     {
       "id": 125,
+      "bilde": "Electabuzz.webp",
       "name": {
         "english": "Electabuzz",
         "japanese": "エレブー",
@@ -2251,6 +2378,7 @@
     },
     {
       "id": 126,
+      "bilde": "Magmar.png",
       "name": {
         "english": "Magmar",
         "japanese": "ブーバー",
@@ -2269,6 +2397,7 @@
     },
     {
       "id": 127,
+      "bilde": "Pinsir.png",
       "name": {
         "english": "Pinsir",
         "japanese": "カイロス",
@@ -2287,6 +2416,7 @@
     },
     {
       "id": 128,
+      "bilde": "Tauros.png",
       "name": {
         "english": "Tauros",
         "japanese": "ケンタロス",
@@ -2305,6 +2435,7 @@
     },
     {
       "id": 129,
+      "bilde": "Magikarp.png",
       "name": {
         "english": "Magikarp",
         "japanese": "コイキング",
@@ -2323,6 +2454,7 @@
     },
     {
       "id": 130,
+      "bilde": "Gyarados.png",
       "name": {
         "english": "Gyarados",
         "japanese": "ギャラドス",
@@ -2341,6 +2473,7 @@
     },
     {
       "id": 131,
+      "bilde": "Lapras.png",
       "name": {
         "english": "Lapras",
         "japanese": "ラプラス",
@@ -2359,6 +2492,7 @@
     },
     {
       "id": 132,
+      "bilde": "Ditto.png",
       "name": {
         "english": "Ditto",
         "japanese": "メタモン",
@@ -2377,6 +2511,7 @@
     },
     {
       "id": 133,
+      "bilde": "Eevee.webp",
       "name": {
         "english": "Eevee",
         "japanese": "イーブイ",
@@ -2395,6 +2530,7 @@
     },
     {
       "id": 134,
+      "bilde": "Vaporeon.png",
       "name": {
         "english": "Vaporeon",
         "japanese": "シャワーズ",
@@ -2413,6 +2549,7 @@
     },
     {
       "id": 135,
+      "bilde": "Jolteon.png",
       "name": {
         "english": "Jolteon",
         "japanese": "サンダース",
@@ -2431,6 +2568,7 @@
     },
     {
       "id": 136,
+      "bilde": "Flareon.webp",
       "name": {
         "english": "Flareon",
         "japanese": "ブースター",
@@ -2449,6 +2587,7 @@
     },
     {
       "id": 137,
+      "bilde": "Porygon.png",
       "name": {
         "english": "Porygon",
         "japanese": "ポリゴン",
@@ -2467,6 +2606,7 @@
     },
     {
       "id": 138,
+      "bilde": "Omanyte.png",
       "name": {
         "english": "Omanyte",
         "japanese": "オムナイト",
@@ -2485,6 +2625,7 @@
     },
     {
       "id": 139,
+      "bilde": "Omastar.png",
       "name": {
         "english": "Omastar",
         "japanese": "オムスター",
@@ -2503,6 +2644,7 @@
     },
     {
       "id": 140,
+      "bilde": "Kabuto.png",
       "name": {
         "english": "Kabuto",
         "japanese": "カブト",
@@ -2521,6 +2663,7 @@
     },
     {
       "id": 141,
+      "bilde": "Kabutops.png",
       "name": {
         "english": "Kabutops",
         "japanese": "カブトプス",
@@ -2539,6 +2682,7 @@
     },
     {
       "id": 142,
+      "bilde": "Aerodactyl.png",
       "name": {
         "english": "Aerodactyl",
         "japanese": "プテラ",
@@ -2557,6 +2701,7 @@
     },
     {
       "id": 143,
+      "bilde": "Snorlax.png",
       "name": {
         "english": "Snorlax",
         "japanese": "カビゴン",
@@ -2575,6 +2720,7 @@
     },
     {
       "id": 144,
+      "bilde": "Articuno.png",
       "name": {
         "english": "Articuno",
         "japanese": "フリーザー",
@@ -2593,6 +2739,7 @@
     },
     {
       "id": 145,
+      "bilde": "Zapdos.png",
       "name": {
         "english": "Zapdos",
         "japanese": "サンダー",
@@ -2611,6 +2758,7 @@
     },
     {
       "id": 146,
+      "bilde": "Moltres.png",
       "name": {
         "english": "Moltres",
         "japanese": "ファイヤー",
@@ -2629,6 +2777,7 @@
     },
     {
       "id": 147,
+      "bilde": "Dratini.webp",
       "name": {
         "english": "Dratini",
         "japanese": "ミニリュウ",
@@ -2647,6 +2796,7 @@
     },
     {
       "id": 148,
+      "bilde": "Dragonair.webp",
       "name": {
         "english": "Dragonair",
         "japanese": "ハクリュー",
@@ -2665,6 +2815,7 @@
     },
     {
       "id": 149,
+      "bilde": "Dragonite.png",
       "name": {
         "english": "Dragonite",
         "japanese": "カイリュー",
@@ -2683,6 +2834,7 @@
     },
     {
       "id": 150,
+      "bilde": "Mewtwo.webp",
       "name": {
         "english": "Mewtwo",
         "japanese": "ミュウツー",
@@ -2701,6 +2853,7 @@
     },
     {
       "id": 151,
+      "bilde": "Mew.png",
       "name": {
         "english": "Mew",
         "japanese": "ミュウ",
